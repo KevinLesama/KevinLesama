@@ -123,12 +123,9 @@ than pretending to know everything.
 
 ## 📫 Contact
 
-- 🌐 Portfolio
-
-[Documentation](https://kevinsotolesamacv.netlify.app/)
-
-- 💼 LinkedIn: your-linkedin
-- 📧 Email: your-email
+- [🌐 Portfolio](https://kevinsotolesamacv.netlify.app/)
+- [💼 LinkedIn](https://kevinsotolesamacv.netlify.app/)
+- [![📧Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsotolesama@gmail.com)
 
 ---
 
