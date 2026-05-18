@@ -1,4 +1,4 @@
-# Hi, I'm Kevin 👋
+# Hi, I'm Kevin 
 
 🎓 Systems student (3rd year) focused on backend development, automation, data engineering, and data analytics.
 
