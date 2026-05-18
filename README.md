@@ -43,6 +43,22 @@ I enjoy building systems that automate processes, collect information, and solve
 - Looker Studio
 - Excel / Google Sheets
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
 ### Currently Exploring
 - AWS
 - Docker
@@ -167,33 +183,6 @@ That's not a reason to avoid trying.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-soto-lesama/)
 
----
-
-## GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLesama&show_icons=true)
-
----
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLesama&layout=compact)
-
----
-
-## Badges
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
