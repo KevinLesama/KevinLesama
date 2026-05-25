@@ -73,11 +73,26 @@ Enfocado en backend, data engineering, cloud e infraestructura.
 
 ---
 
-## GitHub Stats
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLesama&show_icons=true&theme=tokyonight)
+## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLesama&layout=compact&theme=tokyonight)
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=KevinLesama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLesama&layout=compact&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=KevinLesama&theme=tokyonight"
+  />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KevinLesama&theme=tokyonight)
 
