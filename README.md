@@ -97,6 +97,6 @@ Enfocado en backend, data engineering, cloud e infraestructura.
 </p>
 
 <p align="center">
-  <img src="https://github.com/KevinLesama/NahuelGarcia205/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/KevinLesama/KevinLesama/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
