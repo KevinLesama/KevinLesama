@@ -86,7 +86,7 @@ Enfocado en backend, data engineering, cloud e infraestructura.
 
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinLesama5&layout=compact&theme=tokyonight&cache_seconds=86400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinLesama&layout=compact&theme=tokyonight&cache_seconds=86400"
   />
 </p>
 
