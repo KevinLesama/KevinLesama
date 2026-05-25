@@ -90,11 +90,7 @@ Enfocado en backend, data engineering, cloud e infraestructura.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=KevinLesama&theme=tokyonight"
-  />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/KevinLesama/KevinLesama/blob/output/github-contribution-grid-snake-dark.svg" />
