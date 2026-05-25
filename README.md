@@ -66,3 +66,18 @@ That's not a reason to avoid trying.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-soto-lesama/)
 
 ---
+# Kevin Lesama
+
+Estudiante de Licenciatura en Sistemas.
+Enfocado en backend, data engineering, cloud e infraestructura.
+
+---
+
+## GitHub Stats
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinLesama&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLesama&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KevinLesama&theme=tokyonight)
+
