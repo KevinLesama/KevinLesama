@@ -76,15 +76,17 @@ Enfocado en backend, data engineering, cloud e infraestructura.
 
 ## Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=KevinLesama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinLesama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLesama&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinLesama5&layout=compact&theme=tokyonight&cache_seconds=86400"
   />
 </p>
 
@@ -93,6 +95,4 @@ Enfocado en backend, data engineering, cloud e infraestructura.
     src="https://streak-stats.demolab.com?user=KevinLesama&theme=tokyonight"
   />
 </p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KevinLesama&theme=tokyonight)
 
