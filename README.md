@@ -14,7 +14,9 @@ I enjoy building systems that automate processes, collect information, and solve
 - JavaScript
 - HTML
 - CSS
-
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,pandas,sql,git,vscode,eclipse" />
+</p>
 ### Backend & Automation
 - FastAPI
 - SQLAlchemy
