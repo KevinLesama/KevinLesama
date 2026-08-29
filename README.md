@@ -78,20 +78,8 @@ Enfocado en backend, data engineering, cloud e infraestructura.
 
 ## Stats
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinLesama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
-  />
-  </p>
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinLesama&layout=compact&theme=tokyonight&cache_seconds=86400"
-  />
-</p>
+
 
 
 
